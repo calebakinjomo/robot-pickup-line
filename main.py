@@ -2,7 +2,7 @@
 """Robot Pickup Line Championship entry.
 
 Prints the funniest one-line pickup line a robot could use, and writes
-the exact same line to entry.txt in the make.fun output directory.
+that same line to entry.txt in the make.fun output directory.
 Python 3 standard library only.
 """
 
